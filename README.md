@@ -12,5 +12,6 @@
 ![sixth hookage](https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/KakashiLightningBlade.jpg/220px-KakashiLightningBlade.jpg)
 ![seventh hookage](https://otakukart.com/wp-content/uploads/2021/09/Screenshot-2021-09-19-125551.jpg)
 s.no|name|occupation
+----|----|----------
 1|luffy|pirate
 2|light|student
