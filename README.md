@@ -11,6 +11,6 @@
 ![fifth hookage](https://i.pinimg.com/originals/bc/57/eb/bc57ebc00a96790676f0776a1d91cfa8.jpg)
 ![sixth hookage](https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/KakashiLightningBlade.jpg/220px-KakashiLightningBlade.jpg)
 ![seventh hookage](https://otakukart.com/wp-content/uploads/2021/09/Screenshot-2021-09-19-125551.jpg)
-s.no|name|occupation|image
-1|luffy|pirate|![luffy](https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/09/One-Piece-Monkey-D.-Luffy-Cropped.jpg)
-2|light|student|![light](https://static.wikia.nocookie.net/deathnote/images/9/9c/Light_yagami.jpg/revision/latest?cb=20210215131239)
+s.no|name|occupation
+1|luffy|pirate
+2|light|student
