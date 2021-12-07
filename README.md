@@ -15,3 +15,12 @@ s.no|name|occupation
 ----|----|----------
 1|luffy|pirate
 2|light|student
+1. Team 7
+  1. Naruto
+  2. Sasuke
+  3. Sakura
+  4. Sai
+* might guy *
+  * Rock lee
+  * tenten
+  * Neji Hyuga
