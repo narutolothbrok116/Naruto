@@ -20,7 +20,7 @@ s.no|name|occupation
   2. Sasuke
   3. Sakura
   4. Sai
-* might guy *
+* might guy 
   * Rock lee
   * tenten
   * Neji Hyuga
